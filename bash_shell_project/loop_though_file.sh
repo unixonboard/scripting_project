@@ -5,3 +5,6 @@
 
 #records in file are comma separated 
 #e.g a , b , c , d
+
+
+for i in `cat <path_to_file>`
